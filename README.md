@@ -2,6 +2,8 @@
 
 A simple Java CLI application to manage employee records using MySQL and JDBC.
 
+![App Screenshot](img.png)
+
 ---
 
 ## ✅ Features
@@ -46,3 +48,8 @@ CREATE TABLE employee (
     email VARCHAR(100),
     salary DOUBLE
 );
+```
+## 📦 Run Command
+```bash
+javac -cp .;mysql-connector-j-9.3.0.jar EmployeeApp.java
+java -cp .;mysql-connector-j-9.3.0.jar EmployeeApp
