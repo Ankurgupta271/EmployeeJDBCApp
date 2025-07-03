@@ -2,7 +2,7 @@
 
 A simple Java CLI application to manage employee records using MySQL and JDBC.
 
-![App Screenshot](img.png)
+![App Screenshot](img1.png)
 
 ---
 
